@@ -4,9 +4,20 @@ A full-stack task tracker built with a React Native Expo mobile app and a Node.j
 
 The app supports account signup, login, persisted sessions, task creation, task editing, task completion toggles, pending/completed filters, profile statistics, and authenticated backend APIs.
 
-![alt text](image.png) ![alt text](image-1.png)
-![alt text](image-2.png) ![alt text](image-3.png)
-![alt text](image-4.png) ![alt text](image-5.png)
+<p align="center">
+  <img src="image.png" width="30%" />
+  <img src="image-1.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="image-2.png" width="30%" />
+  <img src="image-3.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="image-4.png" width="30%" />
+  <img src="image-5.png" width="30%" />
+</p>
 
 ## Features
 
