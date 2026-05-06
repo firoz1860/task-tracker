@@ -1,0 +1,12 @@
+{
+  "name": "task-tracker-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack task tracker with Expo React Native mobile app and Express MongoDB backend.",
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix mobile",
+    "dev:backend": "npm run dev --prefix backend",
+    "dev:mobile": "npm start --prefix mobile",
+    "typecheck": "npm run typecheck --prefix mobile && npm run typecheck --prefix backend"
+  }
+}

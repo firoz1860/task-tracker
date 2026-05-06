@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Task Tracker",
+    "slug": "task-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#F5F0EB" } },
+    "extra": {  "apiUrl": "http://10.0.2.2:5000" }
+  }
+}
