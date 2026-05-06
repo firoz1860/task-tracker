@@ -311,7 +311,7 @@ A full 20-minute speaking script is available in:
 After recording, add your video link here:
 
 ```text
-Demo video: [add-your-link-here](https://www.dropbox.com/scl/fi/sx8hhf1bp00y5basogtcl/Task-Tracker.mp4?rlkey=es2eif26voyso804s70t1f1g5&st=n6shu417&dl=0)
+Demo video: [Watch Task Tracker Demo](https://www.dropbox.com/scl/fi/sx8hhf1bp00y5basogtcl/Task-Tracker.mp4?rlkey=es2eif26voyso804s70t1f1g5&st=n6shu417&dl=0)
 ```
 
 ## Verification
