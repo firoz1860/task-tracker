@@ -308,14 +308,10 @@ Record a short demo showing:
 
 A full 20-minute speaking script is available in:
 
-```text
-docs/demo-video-script.md
-```
-
 After recording, add your video link here:
 
 ```text
-Demo video: add-your-link-here
+Demo video: [add-your-link-here](https://www.dropbox.com/scl/fi/sx8hhf1bp00y5basogtcl/Task-Tracker.mp4?rlkey=es2eif26voyso804s70t1f1g5&st=n6shu417&dl=0)
 ```
 
 ## Verification
