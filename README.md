@@ -212,6 +212,12 @@ Run mobile:
 npm run dev:mobile
 ```
 
+Run backend, Android emulator, and Expo together on Windows:
+
+```powershell
+npm run dev:android
+```
+
 Run TypeScript checks:
 
 ```bash

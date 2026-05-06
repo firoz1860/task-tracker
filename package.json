@@ -7,6 +7,7 @@
     "install:all": "npm install --prefix backend && npm install --prefix mobile",
     "dev:backend": "npm run dev --prefix backend",
     "dev:mobile": "npm start --prefix mobile",
+    "dev:android": "powershell -ExecutionPolicy Bypass -File ./scripts/start-project.ps1",
     "typecheck": "npm run typecheck --prefix mobile && npm run typecheck --prefix backend"
   }
 }
