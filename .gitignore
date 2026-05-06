@@ -2,6 +2,7 @@ node_modules/
 dist/
 .expo/
 .claude/
+docs/
 .env
 .DS_Store
 npm-debug.log*
